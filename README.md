@@ -19,8 +19,8 @@ Python packages: Flask, FastAPI,
 Container: Docker, Kubernetes, and other cloud based solutions.  
 Serverless: GCP functions and OpenFaaS.
 Cloud services And infrastructure: GCP and a bit of AWS.  
-Database: Postgres, MSSQL, Oracle, MongoDB, Redis, Prometheus, a bit experience with Firebase and ElasticSearch.
-ETL and Scheduling: Apache Airflow (Python based).
+Database: Postgres, MSSQL, Oracle, MongoDB, Redis, Prometheus, a bit experience with Firebase and ElasticSearch.  
+ETL and Scheduling: Apache Airflow (Python based).  
 Source control: Git and Github.
 
 #### What I'm Learning
