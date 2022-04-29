@@ -17,9 +17,9 @@ My specialty is building REST APIs, bots and ETL processes, and DBs design (data
 
 #### My Skills
 Programming languages: Python, JavaScript, SQL, Shell, HTML, CSS.  
-Python packages for APIs: Flask and FastAPI.
+Python packages for APIs: Flask and FastAPI.  
 Container: Docker, Kubernetes, and other cloud-based solutions.  
-Serverless: GCP functions and OpenFaaS.
+Serverless: GCP functions and OpenFaaS.  
 Cloud services And infrastructure: GCP and a bit of AWS.  
 Database: Postgres, MSSQL, Oracle, MongoDB, Redis, Prometheus, a bit of experience with Firebase and ElasticSearch.  
 ETL and Scheduling: Apache Airflow (Python-based).  
