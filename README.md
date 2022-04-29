@@ -23,6 +23,7 @@ Serverless: GCP functions and OpenFaaS.
 Cloud services And infrastructure: GCP and a bit of AWS.  
 Database: Postgres, MSSQL, Oracle, MongoDB, Redis, Prometheus, a bit of experience with Firebase and ElasticSearch.  
 ETL and Scheduling: Apache Airflow (Python-based).  
+CI/CD: Github actions.  
 Source control: Git and Github.
 
 #### What I'm Learning
