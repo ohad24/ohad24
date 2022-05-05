@@ -4,7 +4,7 @@
 
 > Software development is lifelong learning. The learning never stops.
 
-<center>
+<p align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -27,7 +27,7 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
-</center>
+</p>
 
 #### About Me
 I'm a self-taught software developer from Israel, open source enthusiast, who loves the field of SW development.  
